@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab3_mccracken</string>
+
+    <string name="price_tv">Price:</string>
+    <string name="entry_et_hint">$0.00</string>
+    <string name="calculate_btn">Calculate Tip</string>
+
+    <string name="price_string">Meal Price: $%.2f\n"</string>
+    <string name="rate_string">Tip is %.0f%%\n"</string>
+    <string name="amount_string">Tip amount: $%.2f\n</string>
+    <string name="full_price_string">Full Price: $%.2f</string>
+    <string name="error_string">Error: Input a decimal value to the box above.</string>
+
+</resources>
